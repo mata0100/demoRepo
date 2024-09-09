@@ -5,6 +5,7 @@ public class First {
 		System.out.print("hello");
 		System.out.print("Hello from laptop");
 		System.out.print("Hello from laptop2");
+		System.out.print("Hello from desktop");
 
 	}
 
